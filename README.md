@@ -10,7 +10,7 @@ This repository explores the magical world of Studio Ghibli through data. Using 
 
 ![Studio Ghibli Banner](assets/header-banner.jpg)
 
-## 🎒 My Inventory (Tech Stack)
+## 🎒 My Inventory (Tools)
 
 Here are the tools I used to complete this quest:
 
@@ -35,7 +35,7 @@ Throughout this project, I am trying to unlock the answers to these questions:
 
 ## 💾 How to Load My Save File
 
-If you want to explore my code on your own machine, follow these steps:
+If you want to explore my code on your own computer, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/sarahicapi-code/ghibli-data-analysis.git`
 2. Open the folder in VS Code.
