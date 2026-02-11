@@ -8,7 +8,7 @@ Welcome to my very first Data Science repository! I am currently a Software Desi
 
 This repository explores the magical world of Studio Ghibli through data. Using the [Studio Ghibli Dataset from Kaggle](https://www.kaggle.com/datasets/shruthiiiee/studio-ghibli-dataset), I am analyzing movie success, critical reception, and movie runtimes to find hidden patterns in these cinematic masterpieces.
 
-![Studio Ghibli Data Quest Banner](assets/header-banner.png)
+![Studio Ghibli Banner](assets/header-banner.jpg)
 
 ## 🎒 My Inventory (Tech Stack)
 
