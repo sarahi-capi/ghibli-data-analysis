@@ -30,9 +30,9 @@ Here are the tools I used to complete this quest:
 ## Quest Log (Analysis Goals) 📜
 
 Throughout this project, I am trying to unlock the answers to these questions:
-* **Quest 1:** Does the runtime of a Ghibli movie affect its Rotten Tomatoes score?
+* **Quest 1:** Does the runtime of a Ghibli movie affect the budget?
 * **Quest 2:** Which director is the "Boss"?
-* **Quest 3:** Are older Ghibli movies rated higher than newer ones?
+* **Quest 3:** Have older Ghibli movies smaller revenue than newer ones?
 * **Quest 4:** Does the movie genre affect the budget?
 
 *More quests to come!*
