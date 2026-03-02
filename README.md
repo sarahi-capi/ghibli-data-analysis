@@ -1,4 +1,4 @@
-# 🍃✨ Studio Ghibli Data Quest 🎮🌸
+# Studio Ghibli Data Analysis 🍃✨
 
 Welcome to my very first Data Science repository!
 
